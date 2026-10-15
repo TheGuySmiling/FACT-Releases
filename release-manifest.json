@@ -1,0 +1,7 @@
+{
+  "version": "0.16.38",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.38/FACT.Setup.v0.16.38.exe",
+  "sha256": "52d63537abff2213ace7d572a237167026de0340ae18ad5f531183cc9dca83b1",
+  "notes": "FACT 0.16.38: grouped application improvements and safer post-update Future Ideas-only synchronization. Preserve existing data and pending work. Full-sync recovery remains subject to verification on each affected computer.",
+  "required": false
+}
