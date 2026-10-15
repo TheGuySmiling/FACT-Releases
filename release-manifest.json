@@ -1,7 +1,1 @@
-{
-  "version": "0.16.38",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.38/FACT.Setup.v0.16.38.exe",
-  "sha256": "52d63537abff2213ace7d572a237167026de0340ae18ad5f531183cc9dca83b1",
-  "notes": "FACT 0.16.38: grouped application improvements and safer post-update Future Ideas-only synchronization. Preserve existing data and pending work. Full-sync recovery remains subject to verification on each affected computer.",
-  "required": false
-}
+{"version":"0.16.39","installer_url":"https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.39/FACT.Setup.v0.16.39.exe","sha256":"79509578d16c7e1d0d6a9148dd3cfb2484a7ec3545f636c0cc514ada2083fbf6","notes":"Fixes downloaded show/source choices on historical purchases without replaying later-sold inventory. Error reports retain exception, location, backup and rollback details. Corrects release admission and distinguishes bridge configuration errors from required app updates. Preserve existing records and pending work; retry unresolved comparisons after updating.","required":false}
