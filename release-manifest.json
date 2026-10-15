@@ -1,1 +1,7 @@
-{"version":"0.16.39","installer_url":"https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.39/FACT.Setup.v0.16.39.exe","sha256":"79509578d16c7e1d0d6a9148dd3cfb2484a7ec3545f636c0cc514ada2083fbf6","notes":"Fixes downloaded show/source choices on historical purchases without replaying later-sold inventory. Error reports retain exception, location, backup and rollback details. Corrects release admission and distinguishes bridge configuration errors from required app updates. Preserve existing records and pending work; retry unresolved comparisons after updating.","required":false}
+{
+  "version": "0.16.40",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.40/FACT.Setup.v0.16.40.exe",
+  "sha256": "e3513e15d0a878c235081c9e6c1ce7e7aa345c1a1471d2f712e31254d7abae36",
+  "notes": "Compares only descriptive deal corrections while preserving sold inventory and later sales. Sync summaries count all outstanding comparisons, including previous sync attempts. No automatic transaction choices or historical record changes.",
+  "required": false
+}
