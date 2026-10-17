@@ -1,7 +1,7 @@
 {
-  "version": "0.16.40",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.40/FACT.Setup.v0.16.40.exe",
-  "sha256": "e3513e15d0a878c235081c9e6c1ce7e7aa345c1a1471d2f712e31254d7abae36",
-  "notes": "Compares only descriptive deal corrections while preserving sold inventory and later sales. Sync summaries count all outstanding comparisons, including previous sync attempts. No automatic transaction choices or historical record changes.",
+  "version": "0.16.43",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.43/FACT.Setup.v0.16.43.exe",
+  "sha256": "3ee34f0b38d3b9ae6ef8c9003272be7557dc99f1f622e160ddd547bceec2fe13",
+  "notes": "FACT 0.16.43 repairs the reviewed delayed-client purchase reconciliation, preserves fuller card numbers and current inventory during description updates, and automatically records repair failures as diagnostic FTDs. Existing local data and queued work are preserved. This installer does not run business sync.",
   "required": false
 }
