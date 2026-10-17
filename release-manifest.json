@@ -1,7 +1,7 @@
 {
-  "version": "0.16.43",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.43/FACT.Setup.v0.16.43.exe",
-  "sha256": "3ee34f0b38d3b9ae6ef8c9003272be7557dc99f1f622e160ddd547bceec2fe13",
-  "notes": "FACT 0.16.43 repairs the reviewed delayed-client purchase reconciliation, preserves fuller card numbers and current inventory during description updates, and automatically records repair failures as diagnostic FTDs. Existing local data and queued work are preserved. This installer does not run business sync.",
+  "version": "0.16.44",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.44/FACT.Setup.v0.16.44.exe",
+  "sha256": "d9dd32f00ce37e041765a8ed270152be2706d71689c0cf61e65b78dbb9006d26",
+  "notes": "FACT 0.16.44 fixes sync recognition of existing Slab Guards catalog names and adds precise, privacy-screened workflow failure details to copied errors, automatic error FTDs and shared diagnostics. Existing local data and queued work are preserved. This installer does not run business sync.",
   "required": false
 }
