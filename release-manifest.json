@@ -1,7 +1,7 @@
 {
-  "version": "0.16.46",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.46/FACT.Setup.v0.16.46.exe",
-  "sha256": "5bed8c01609b35051bff62c140fed078ab291b6badef7a43d25548c1a2dd04e4",
-  "notes": "FACT 0.16.46: accepted inventory, search, Bank transfers, FTD and setup-guide improvements. Preserves existing setup and records. Production repair reminders remain open until reviewed against the real inventory.",
+  "version": "0.16.47",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.47/FACT.Setup.v0.16.47.exe",
+  "sha256": "d0f4bb3893e418650331614a7131378082686b52affb30c1eefe4d53e6fa2ab3",
+  "notes": "FACT 0.16.47 restores hidden/minimized Update cards. If an older running session ignores Update, close and reopen FACT once, then update. Preserves existing data, drafts and saved setup.",
   "required": false
 }
