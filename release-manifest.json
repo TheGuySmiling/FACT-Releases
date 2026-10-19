@@ -1,7 +1,7 @@
 {
-  "version": "0.16.44",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.44/FACT.Setup.v0.16.44.exe",
-  "sha256": "d9dd32f00ce37e041765a8ed270152be2706d71689c0cf61e65b78dbb9006d26",
-  "notes": "FACT 0.16.44 fixes sync recognition of existing Slab Guards catalog names and adds precise, privacy-screened workflow failure details to copied errors, automatic error FTDs and shared diagnostics. Existing local data and queued work are preserved. This installer does not run business sync.",
+  "version": "0.16.45",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.45/FACT.Setup.v0.16.45.exe",
+  "sha256": "b2acb4767304a95ae3c6179f40b4dedc76ccb1e62988ad9ce1ffa6e29926e752",
+  "notes": "FACT 0.16.45: accepted printing, inventory, Needs Attention, marketplace and deal-workflow improvements. Preserves existing data and pending work. Update both computers before using new shared date corrections or marketplace details.",
   "required": false
 }
