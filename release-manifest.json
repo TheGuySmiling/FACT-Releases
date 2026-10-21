@@ -1,7 +1,7 @@
 {
-  "version": "0.16.48",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.48/FACT.Setup.v0.16.48.exe",
-  "sha256": "14831b3b2d2dc6c1295a89485e888b4a93ed886ed2fc53ebbdff34894bbc8191",
-  "notes": "FACT 0.16.48: unified inventory tabs, clearer price reviews, Tabler icons, paired label previews and Market-weighted Binder/Bulk allocation with per-card preview amounts. Preserves existing data and drafts. Every computer must update to 0.16.48 before Sync; older local data and queued work are preserved.",
+  "version": "0.16.49",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.49/FACT.Setup.v0.16.49.exe",
+  "sha256": "0ea36ff8f701de9031cbf98792926397a833e2a4b6f3301ae04697fe56b2cac3",
+  "notes": "FACT 0.16.49: preserves same-number deal collisions for review, fixes legacy inventory transfer compatibility and improves safe sync diagnostics. Update each PC before retrying Full Sync. No automatic merge, deletion or renumbering of conflicting deals.",
   "required": false
 }
