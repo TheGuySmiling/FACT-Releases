@@ -1,7 +1,7 @@
 {
-  "version": "0.16.47",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.47/FACT.Setup.v0.16.47.exe",
-  "sha256": "d0f4bb3893e418650331614a7131378082686b52affb30c1eefe4d53e6fa2ab3",
-  "notes": "FACT 0.16.47 restores hidden/minimized Update cards. If an older running session ignores Update, close and reopen FACT once, then update. Preserves existing data, drafts and saved setup.",
+  "version": "0.16.48",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.48/FACT.Setup.v0.16.48.exe",
+  "sha256": "14831b3b2d2dc6c1295a89485e888b4a93ed886ed2fc53ebbdff34894bbc8191",
+  "notes": "FACT 0.16.48: unified inventory tabs, clearer price reviews, Tabler icons, paired label previews and Market-weighted Binder/Bulk allocation with per-card preview amounts. Preserves existing data and drafts. Every computer must update to 0.16.48 before Sync; older local data and queued work are preserved.",
   "required": false
 }
