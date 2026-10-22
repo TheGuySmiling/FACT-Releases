@@ -1,7 +1,7 @@
 {
-  "version": "0.16.50",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.50/FACT.Setup.v0.16.50.exe",
-  "sha256": "e9640b6428f5e1ce04c18f1bc1eddaeec35f496e90c7e0d83ad71fca924a3839",
-  "notes": "FACT 0.16.50: reviewed same-purchase reconciliation with retained history, stable shared-draft identities and retired-copy replay protection. Every PC must update to 0.16.50 before Sync. Changed linked history or pools remains held for review; no automatic duplicate merging.",
+  "version": "0.16.51",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.51/FACT.Setup.v0.16.51.exe",
+  "sha256": "1dd05b60f529f48e0720c6cf23fa6ff98b3e941f72aa95f64a47a6802dd6daee",
+  "notes": "FACT 0.16.51: fixes backdated-purchase reconciliation using recorded history order, retains exact pool and later-edit safeguards, and adds specific automatic diagnostic rules and state fingerprints. Every PC must update before Sync. Local data and work are retained.",
   "required": true
 }
