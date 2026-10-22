@@ -1,7 +1,7 @@
 {
-  "version": "0.16.49",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.49/FACT.Setup.v0.16.49.exe",
-  "sha256": "0ea36ff8f701de9031cbf98792926397a833e2a4b6f3301ae04697fe56b2cac3",
-  "notes": "FACT 0.16.49: preserves same-number deal collisions for review, fixes legacy inventory transfer compatibility and improves safe sync diagnostics. Update each PC before retrying Full Sync. No automatic merge, deletion or renumbering of conflicting deals.",
-  "required": false
+  "version": "0.16.50",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.50/FACT.Setup.v0.16.50.exe",
+  "sha256": "e9640b6428f5e1ce04c18f1bc1eddaeec35f496e90c7e0d83ad71fca924a3839",
+  "notes": "FACT 0.16.50: reviewed same-purchase reconciliation with retained history, stable shared-draft identities and retired-copy replay protection. Every PC must update to 0.16.50 before Sync. Changed linked history or pools remains held for review; no automatic duplicate merging.",
+  "required": true
 }
