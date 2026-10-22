@@ -1,7 +1,7 @@
 {
-  "version": "0.16.51",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.51/FACT.Setup.v0.16.51.exe",
-  "sha256": "1dd05b60f529f48e0720c6cf23fa6ff98b3e941f72aa95f64a47a6802dd6daee",
-  "notes": "FACT 0.16.51: fixes backdated-purchase reconciliation using recorded history order, retains exact pool and later-edit safeguards, and adds specific automatic diagnostic rules and state fingerprints. Every PC must update before Sync. Local data and work are retained.",
+  "version": "0.16.52",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.52/FACT.Setup.v0.16.52.exe",
+  "sha256": "14f23b4dd595f6391d9b733b99484930475963d8747b82f79223252a194b3879",
+  "notes": "FACT 0.16.52: supports complete SQLite timestamps during reviewed reconciliation, adds automatic clock-field and record-fingerprint diagnostics, and refreshes recurring errors in one FTD. Every PC must update before Sync. Local data and work are retained.",
   "required": true
 }
