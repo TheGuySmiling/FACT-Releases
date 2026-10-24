@@ -1,7 +1,7 @@
 {
-  "version": "0.16.52",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.52/FACT.Setup.v0.16.52.exe",
-  "sha256": "14f23b4dd595f6391d9b733b99484930475963d8747b82f79223252a194b3879",
-  "notes": "FACT 0.16.52: supports complete SQLite timestamps during reviewed reconciliation, adds automatic clock-field and record-fingerprint diagnostics, and refreshes recurring errors in one FTD. Every PC must update before Sync. Local data and work are retained.",
+  "version": "0.16.53",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.53/FACT.Setup.v0.16.53.exe",
+  "sha256": "df4103ef3a2c69cdc76102b8989b924973d9d7b2f352ef5921b72fd1ba704ee8",
+  "notes": "FACT 0.16.53: inventory/Binder transfer safeguards and bounded backup waits; compact card editors, separate price ages, persistent multi-select filters, improved labels, Shows, sealed history and deal review. Existing inventory and drafts retained. No automatic reconciliation of real records.",
   "required": true
 }
