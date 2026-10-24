@@ -1,7 +1,7 @@
 {
-  "version": "0.16.53",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.53/FACT.Setup.v0.16.53.exe",
-  "sha256": "df4103ef3a2c69cdc76102b8989b924973d9d7b2f352ef5921b72fd1ba704ee8",
-  "notes": "FACT 0.16.53: inventory/Binder transfer safeguards and bounded backup waits; compact card editors, separate price ages, persistent multi-select filters, improved labels, Shows, sealed history and deal review. Existing inventory and drafts retained. No automatic reconciliation of real records.",
+  "version": "0.16.54",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.54/FACT.Setup.v0.16.54.exe",
+  "sha256": "325a7e91764eba2603a2f8976ce6d66e7f07bf89534bd968acab36aebd261ebb",
+  "notes": "FACT 0.16.54: prevent false Binder-transfer Sync conflicts from unrelated card numbers or slab grades. Preserve genuine conflicts and queued work, and improve privacy-safe overlap diagnostics. No automatic record corrections.",
   "required": true
 }
