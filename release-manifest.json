@@ -1,7 +1,7 @@
 {
-  "version": "0.16.54",
-  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.54/FACT.Setup.v0.16.54.exe",
-  "sha256": "325a7e91764eba2603a2f8976ce6d66e7f07bf89534bd968acab36aebd261ebb",
-  "notes": "FACT 0.16.54: prevent false Binder-transfer Sync conflicts from unrelated card numbers or slab grades. Preserve genuine conflicts and queued work, and improve privacy-safe overlap diagnostics. No automatic record corrections.",
+  "version": "0.16.55",
+  "installer_url": "https://github.com/TheGuySmiling/FACT-Releases/releases/download/v0.16.55/FACT.Setup.v0.16.55.exe",
+  "sha256": "7dcf47d2c341e4e254b3f9cf6bc6a2584a8ebd9b68afc998539945e28904e0cf",
+  "notes": "FACT 0.16.55: Binder quantity reorganization with conserved moved costs, reviewed marketplace fee/postage allocation, Manual Updates filter, inventory and deal repair tools, compact approval screens, menu improvements and ordered Sync rounds. Update every PC before Sync. Real corrections remain manual.",
   "required": true
 }
